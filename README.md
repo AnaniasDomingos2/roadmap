@@ -5,3 +5,5 @@ Projects with roadmap sh
 
 # # PT
 # Este repositório contém uma série de projetos desenvolvidos seguindo o roadmap.sh, com foco exclusivo em frontend. Cada projeto corresponde a uma etapa no aprendizado de tecnologias e ferramentas, aplicando os conhecimentos adquiridos de forma prática. O objetivo é cobrir conceitos essenciais como Grid System, Flexbox, JavaScript, jQuery, React e Bootstrap, para criar soluções modernas e responsivas.
+
+https://roadmap.sh/projects/basic-html-website
